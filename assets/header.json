@@ -1,13 +1,13 @@
 {
   "name": "Cristian Flores",
-  "titulos": "Develop",
-  "mision": "Crear softwerer de calidad ",
+  "titulos": "Develop Backen, Administrador de Proyectos y Emprendedor",
+  "mision": "Cursando Licenciatura en Ingeniería de Software, enfocado en arquitecturas de software, patrones de diseño y metodologías agiles. Interesado en el backend, API REST en Node.js , Nest.js,Angular y tecnologías DevOps como Docker",
   "foto": "https://firebasestorage.googleapis.com/v0/b/mycv-n4ndo.appspot.com/o/284274761_533132744938150_5390096289069018756_n.jpg?alt=media&token=657770c4-6d79-42e9-b4bd-6ae20c21bb59",
   "email": "cfloresramirez237@gmail.com",
   "cel": "(272)1525161",
   "ubicacion": "Orizaba Ver, Mexico ",
-  "Red Social": {
-    "x": "@N4ndomx",
-    "github": "@N4ndomx"
+  "red_social": {
+    "x": "@N4ndorz",
+    "github": "@N4ndomx","instagram":"ramirezcf_"
   }
 }

@@ -1,0 +1,40 @@
+[
+    {
+        "puesto": "Backend Developer",
+        "empresa": "Ajolitos devs",
+        "fecha_init": "01/22",
+        "fecha_fin": "04/22",
+        "Ciudad": "Iztac",
+        "pais": "MX",
+        "logros": [
+            {
+                "logro": "Home page"
+            },
+            {
+                "logro": "Softwere COCOMO"
+            },
+            {
+                "logro": "Softwere Estructuras de Datos"
+            }
+        ]
+    },
+    {
+        "puesto": "Project Manager",
+        "empresa": "Toxy devs",
+        "fecha_init": "6/22",
+        "fecha_fin": "12/22",
+        "Ciudad": "Orizaba",
+        "pais": "MX",
+        "logros": [
+            {
+                "logro": "Sistema Integral de Salud"
+            },
+            {
+                "logro": "Juego de Adivinanza Marvel"
+            },
+            {
+                "logro": "Sistema Integral de Asistencia Estudiantil"
+            }
+        ]
+    }
+]

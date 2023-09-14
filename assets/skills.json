@@ -1,0 +1,35 @@
+[
+{
+"name_skill":"Pensamiento Deductivo",
+"percentage":95
+},
+{
+"name_skill":"Cominicacion Asertiva",
+"percentage":80
+},
+{
+"name_skill":"Programacion Orientada a Objetos",
+"percentage":90
+},
+{
+"name_skill":"Gestion de Proyectos",
+"percentage":70
+},
+{
+"name_skill":"Programacion web Back-end",
+"percentage":80
+},
+{
+"name_skill":"Programacion web Front-end",
+"percentage":60
+},
+{
+"name_skill":"Metodologias Agile y Waterfall",
+"percentage":75
+},
+{
+"name_skill":"Tecnologias DevOps",
+"percentage":50
+}
+
+]

@@ -36,3 +36,13 @@ app.get('/certifications', (req, res, next) => {
 app.listen(port,  () => 
 	console.log('listening on port ' + port
 ));
+
+
+
+app.get('/dev-hours', (req, res, next) => {
+        res.sendfile("assets/1a_dev_hours.json");
+});
+
+app.get('/proxy-size', (req, res, next) => {
+        res.sendfile("assets/1a_proxy_size.json");
+});
